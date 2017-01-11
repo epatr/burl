@@ -1,0 +1,32 @@
+.header {
+  text-align: center;
+}
+#logo {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 700;
+  font-size: 16rem;
+  color: #222;
+  border-bottom: .15em solid #222;
+  max-width: 2.5em;
+  margin: 0 auto 3rem auto;
+}
+
+.albums .thumbnail {
+  text-align: center;
+  border: 0;
+}
+
+.introduction {
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  font-size: 1.25em;
+}
+.introduction-icons {
+  font-size: 2em;
+}
+.introduction-icons a {
+  color: #666;
+}
+.introduction-icons a:hover {
+  color: #505050;
+}
